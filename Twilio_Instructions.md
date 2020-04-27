@@ -2,7 +2,7 @@
 
 1. Отваря се сайта [www.twilio.com](http://www.twilio.com/) и се избира бутон "Sign up":
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/qgTTmS9/Scr1.png" alt="Scr1" border="0"></a>
+![alt text](https://github.com/BKunchev/VehicleServiceCenter/blob/master/Scr1.png "Logo Title Text 1")
 
 2. Попълва се формата за регистрация:
 
